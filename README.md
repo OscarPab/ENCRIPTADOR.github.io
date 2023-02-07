@@ -1,7 +1,4 @@
 # 🔏 Encriptador de texto
-<div align="right"><img src="img/logo-aluralatam-oracle.svg" width="200"/></div>
-<div align="center"><img src="img/rh03-one-v-black-lad2.png" width="100"/></div>
-<div align="left"><img src="img/logo.svg" width="64"/></div>
 
 ![e.png](https://i.postimg.cc/vm3Yhmbj/e.png)
 ---
